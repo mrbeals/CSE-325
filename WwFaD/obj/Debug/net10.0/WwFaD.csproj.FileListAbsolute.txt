@@ -1,0 +1,4 @@
+C:\Users\spenc\Spring 2026\.NETDevelopment\CSE-325\WwFaD\obj\Debug\net10.0\WwFaD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\Spring 2026\.NETDevelopment\CSE-325\WwFaD\obj\Debug\net10.0\WwFaD.AssemblyInfoInputs.cache
+C:\Users\spenc\Spring 2026\.NETDevelopment\CSE-325\WwFaD\obj\Debug\net10.0\WwFaD.AssemblyInfo.cs
+C:\Users\spenc\Spring 2026\.NETDevelopment\CSE-325\WwFaD\obj\Debug\net10.0\WwFaD.csproj.CoreCompileInputs.cache
