@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleApp", "MyConsoleApp\MyConsoleApp.csproj", "{89DFD420-3737-4F80-89A9-97BA3EED09CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFour", "ConnectFour\ConnectFour.csproj", "{15AB9E5C-096B-44D5-AFAF-9195217F223E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{89DFD420-3737-4F80-89A9-97BA3EED09CE}.Release|x64.Build.0 = Release|Any CPU
 		{89DFD420-3737-4F80-89A9-97BA3EED09CE}.Release|x86.ActiveCfg = Release|Any CPU
 		{89DFD420-3737-4F80-89A9-97BA3EED09CE}.Release|x86.Build.0 = Release|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Debug|x64.Build.0 = Debug|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Debug|x86.Build.0 = Debug|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Release|x64.ActiveCfg = Release|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Release|x64.Build.0 = Release|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Release|x86.ActiveCfg = Release|Any CPU
+		{15AB9E5C-096B-44D5-AFAF-9195217F223E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
